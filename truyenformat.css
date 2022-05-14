@@ -1,0 +1,33 @@
+.indent{
+    text-indent: 30px;
+}
+body{
+    font-size: 13px;
+    font-family: "Times New Roman",sans-serif;
+}
+
+.show{
+    margin-top: 80px;
+}
+.info p{
+    text-align: center;
+    font-size: 17px;
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.chap-list{
+    border: 1px dotted mediumaquamarine;
+    text-align: center;
+    font-size: 14px;
+    line-height: 30px;
+}
+.chap-list li{
+    list-style-type: none;
+}
+
+div button a{
+    text-decoration: none;
+}
